@@ -6,7 +6,7 @@ let cols, rows;
 
 function preload() {
   soundFormats('mp3', 'ogg');
-  audio = loadSound('assets/AURORA - The Seed.mp3');
+  audio = loadSound('AURORA - The Seed.mp3');
 }
 
 function setup() {
